@@ -17,11 +17,12 @@ public class Main {
                 choose1.menu();
                 break;
             case 2:
-                System.out.println("decript");
+                choose2.menu();
                 break;
             case 3:
-                System.out.println("sair");
+                System.out.println("saindo");
                 break;
         }
     }
 }
+
